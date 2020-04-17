@@ -2,7 +2,7 @@
 title: Addon Guide
 description: How to build an addon
 published: 1
-date: 2020-04-17T22:13:23.540Z
+date: 2020-04-17T22:13:52.841Z
 tags: 
 ---
 
@@ -49,12 +49,13 @@ You can add these to access the Spigot-API and use my [BasePlugin Framework](htt
     <scope>provided</scope>
   </dependency>
   
+
   <dependency>
     <groupId>net.prosavage</groupId>
     <artifactId>BasePlugin</artifactId>
     <version>1.7.3</version>
     <scope>provided</scope>
-	</dependency>
+  </dependency>
 ```
 
 * Define addon properties.
