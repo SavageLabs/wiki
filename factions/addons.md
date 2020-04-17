@@ -2,7 +2,7 @@
 title: Addon Guide
 description: How to build an addon
 published: 1
-date: 2020-04-17T22:01:37.701Z
+date: 2020-04-17T22:04:11.373Z
 tags: 
 ---
 
