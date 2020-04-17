@@ -2,7 +2,7 @@
 title: Addon Guide
 description: How to build an addon
 published: 1
-date: 2020-04-17T23:09:54.447Z
+date: 2020-04-17T23:10:46.147Z
 tags: 
 ---
 
@@ -70,7 +70,6 @@ main=net.prosavage.factionsx.FWildAddon
 ```
 
 * Create our main class.
-
 So, following the `addon.properties` we defined above, our main class's path would be `/src/main/java/net/prosavage/factionsx/FWildAddon`.
 ```java
 package net.prosavage.factionsx;
