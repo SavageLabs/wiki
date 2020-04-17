@@ -2,7 +2,7 @@
 title: Addon Guide
 description: How to build an addon
 published: 1
-date: 2020-04-17T22:04:11.373Z
+date: 2020-04-17T22:04:57.445Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ tags:
 
 I will be creating an example `/f wild` addon.
 
-1. Lets start off with an empty maven project.
+* Lets start off with an empty maven project.
 
 Add and import the SavageLabs repository to access FactionsX & AddonFramework.
 **These versions may be out of date - check the [SavageLabs Repo](https://nexus.savagelabs.net/#browse/browse:maven-releases:net%2Fprosavage%2Ffactionsx) to make sure.**
@@ -43,7 +43,7 @@ Add and import the SavageLabs repository to access FactionsX & AddonFramework.
 </dependencies>
 ```
 
-2. Define addon properties.
+* Define addon properties.
 
 Head into `/src/main/java/resources/` and create `addon.properties`
 The content of my `addon.properties` file will be:
@@ -54,7 +54,7 @@ name=FWild-Addon
 main=net.prosavage.factionsx.FWildAddon
 ```
 
-3. Create our main class.
+* Create our main class.
 
 So, following the `addon.properties` we defined above, our main class's path would be `/src/main/java/net/prosavage/factionsx/FWildAddon`.
 ```java
@@ -74,7 +74,7 @@ public class FWildAddon extends Addon {
 }
 ```
 
-4. Test our addon.
+* Test our addon.
 
 Now, run `mvn install` and you should get a successful build. 
 Copy the jar file generated in the `/target/` folder, put it in the `/plugins/FactionsX/addons` folder in your minecraft server.
@@ -83,6 +83,6 @@ Now start the server normally, and we should see a line in the FactionsX enable 
 
 This means our addon loaded successfully, there should now also be a folder `/plugins/FactionsX/addons/FWild-Addon/`.
 
-5. Now, we can try injecting a command into FactionsX.
+* Now, we can try injecting a command into FactionsX.
 
 
