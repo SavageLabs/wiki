@@ -2,7 +2,7 @@
 title: Addon Guide
 description: How to build an addon
 published: 1
-date: 2020-04-17T22:11:44.688Z
+date: 2020-04-17T22:13:23.540Z
 tags: 
 ---
 
@@ -37,11 +37,12 @@ Add and import the SavageLabs repository to access FactionsX & AddonFramework.
     <artifactId>AddonFramework</artifactId>
     <version>1.0</version>
 	</dependency>
-  
-  
-  
-  
-	<dependency>
+</dependencies>
+```
+
+You can add these to access the Spigot-API and use my [BasePlugin Framework](https://github.com/SavageLabs/SavageFramework) for providing configs for your addons
+```xml
+<dependency>
     <groupId>org.spigotmc</groupId>
     <artifactId>spigot-api</artifactId>
     <version>1.15.1-R0.1-SNAPSHOT</version>
@@ -54,7 +55,6 @@ Add and import the SavageLabs repository to access FactionsX & AddonFramework.
     <version>1.7.3</version>
     <scope>provided</scope>
 	</dependency>
-</dependencies>
 ```
 
 * Define addon properties.
