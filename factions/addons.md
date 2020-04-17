@@ -2,7 +2,7 @@
 title: Addon Guide
 description: How to build an addon
 published: 1
-date: 2020-04-17T22:11:29.454Z
+date: 2020-04-17T22:11:44.688Z
 tags: 
 ---
 
@@ -37,6 +37,9 @@ Add and import the SavageLabs repository to access FactionsX & AddonFramework.
     <artifactId>AddonFramework</artifactId>
     <version>1.0</version>
 	</dependency>
+  
+  
+  
   
 	<dependency>
     <groupId>org.spigotmc</groupId>
