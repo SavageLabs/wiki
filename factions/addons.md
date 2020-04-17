@@ -2,7 +2,7 @@
 title: Addon Guide
 description: How to build an addon
 published: 1
-date: 2020-04-17T22:14:09.538Z
+date: 2020-04-17T23:09:54.447Z
 tags: 
 ---
 
@@ -99,5 +99,46 @@ Now start the server normally, and we should see a line in the FactionsX enable 
 This means our addon loaded successfully, there should now also be a folder `/plugins/FactionsX/addons/FWild-Addon/`.
 
 * Now, we can try injecting a command into FactionsX.
+
+Lets create a class called `CmdWild`.
+```java
+package net.prosavage.factionsx;
+
+import net.prosavage.factionsx.command.engine.CommandInfo;
+import net.prosavage.factionsx.command.engine.CommandRequirementsBuilder;
+import net.prosavage.factionsx.command.engine.FCommand;
+import org.jetbrains.annotations.NotNull;
+
+public class CmdWild extends FCommand {
+
+    public CmdWild() {
+        // Alias for the command, so this would do `/f wild`.
+        getAliases().add("wild");
+        // We can add multiple
+        getAliases().add("wild-tp");
+        
+        // The commandRequirements pre-check common things for you, the official way.
+        // For example we could add #asFactionMember(true) if we want to make sure they're a faction member.
+        // Here we do not want this executed in console, as the console cannot be teleported.
+        this.commandRequirements = new CommandRequirementsBuilder()
+                .asPlayer(true)
+                .build();
+    }
+
+
+    public void execute(@NotNull CommandInfo info) {
+        info.message("Executing wild command, since you passed the command requirement check.");
+    }
+
+
+    /**
+     * This is used by the command engine to tell a player what a command does in the help menu
+     */
+    @NotNull
+    public String getHelpInfo() {
+        return "teleport to a random chunk.";
+    }
+}
+```
 
 
