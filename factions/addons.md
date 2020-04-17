@@ -2,7 +2,7 @@
 title: Addon Guide
 description: How to build an addon
 published: 1
-date: 2020-04-17T22:06:03.901Z
+date: 2020-04-17T22:07:57.189Z
 tags: 
 ---
 
@@ -19,7 +19,6 @@ Add and import the SavageLabs repository to access FactionsX & AddonFramework.
 **These versions may be out of date - check the [SavageLabs Repo](https://nexus.savagelabs.net/#browse/browse:maven-releases:net%2Fprosavage%2Ffactionsx) to make sure.**
 ```xml
 <repositories>
-  <!-- SavageLabs repository -->
   <repository>
     <id>savagelabs</id>
     <url>https://nexus.savagelabs.net/repository/maven-public/</url>
@@ -27,18 +26,23 @@ Add and import the SavageLabs repository to access FactionsX & AddonFramework.
 </repositories>
 
 <dependencies>
-  <!-- FactionsX Lib -->
   <dependency>
     <groupId>net.prosavage.factionsx</groupId>
     <artifactId>FactionsX</artifactId>
     <version>0.2-PATREON</version>
 	</dependency>
-  <!-- AddonFramework Lib -->
   <dependency>
     <groupId>net.prosavage.factionsx</groupId>
     <artifactId>AddonFramework</artifactId>
     <version>1.0</version>
 	</dependency>
+	<dependency>
+    <groupId>org.spigotmc</groupId>
+    <artifactId>spigot-api</artifactId>
+    <version>1.15.1-R0.1-SNAPSHOT</version>
+    <scope>provided</scope>
+  </dependency>
+  
 </dependencies>
 ```
 
