@@ -2,7 +2,7 @@
 title: Addon Guide
 description: How to build an addon
 published: 1
-date: 2020-04-18T19:21:00.251Z
+date: 2020-04-19T00:47:19.386Z
 tags: 
 ---
 
@@ -139,5 +139,46 @@ public class CmdWild extends FCommand {
     }
 }
 ```
+
+Now for our execute method, we want to load the random chunk async and THEN teleport.
+[PaperLib](https://github.com/PaperMC/PaperLib) allows us to do this, however, its an external library. FactionsX's addon system also can load libraries, they simply need to be specified in the pom normally.
+
+So we add the following to our `pom.xml`
+```xml
+<repository>
+   <id>papermc</id>
+   <url>https://papermc.io/repo/repository/maven-public/</url>
+</repository>
+
+<dependency>
+  <groupId>io.papermc</groupId>
+  <artifactId>paperlib</artifactId>
+  <version>1.0.2</version>
+  <scope>compile</scope>
+</dependency>
+```
+
+Now we can access PaperLib, and load a random chunk.
+
+
+Now we have to register the command into FactionsX.
+We also need to remove it on disable.
+```java
+public class FWildAddon extends Addon {
+
+    @Override
+    protected void onEnable() {
+        getInstance().getLogger().info("Enabling FWild-Addon!");
+        FactionsX.baseCommand.addSubCommand(new CmdWild());
+    }
+
+    @Override
+    protected void onDisable() {
+        getInstance().getLogger().info("Disabling FWild-Addon!");
+        FactionsX.baseCommand.removeSubCommand(new CmdWild());
+    }
+}
+```
+Our addon will now add the command on startup, and remove on shutdown.
 
 
