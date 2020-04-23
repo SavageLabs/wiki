@@ -2,7 +2,7 @@
 title: Addon Guide
 description: How to build an addon
 published: 1
-date: 2020-04-19T00:47:19.386Z
+date: 2020-04-23T15:01:27.136Z
 tags: 
 ---
 
@@ -78,12 +78,12 @@ public class FWildAddon extends Addon {
 
     @Override
     protected void onEnable() {
-        getInstance().getLogger().info("Enabling FWild-Addon!");
+        logColored("Enabling FWild-Addon!");
     }
 
     @Override
     protected void onDisable() {
-        getInstance().getLogger().info("Disabling FWild-Addon!");
+        logColored("Disabling FWild-Addon!");
     }
 }
 ```
@@ -168,13 +168,13 @@ public class FWildAddon extends Addon {
 
     @Override
     protected void onEnable() {
-        getInstance().getLogger().info("Enabling FWild-Addon!");
+        logColored("Enabling FWild-Addon!");
         FactionsX.baseCommand.addSubCommand(new CmdWild());
     }
 
     @Override
     protected void onDisable() {
-        getInstance().getLogger().info("Disabling FWild-Addon!");
+        logColored("Disabling FWild-Addon!");
         FactionsX.baseCommand.removeSubCommand(new CmdWild());
     }
 }
