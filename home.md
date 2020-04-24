@@ -2,7 +2,7 @@
 title: SavageLabs
 description: 
 published: 1
-date: 2020-04-24T22:37:18.299Z
+date: 2020-04-24T22:39:49.802Z
 tags: 
 ---
 
@@ -10,9 +10,6 @@ tags:
 
 Welcome to the SavageLabs' Wiki Website.
 Here you can find some useful information about our plugins like installation guides, placeholders and permissions lists and the default files of our plugins.
-
-If you can't find what you're looking for, check our <a href="https://discord.gg/j8CW7x8">Discord Support Server</a>!
-	
 
 <figure class="table"><table><tbody><tr><th><a href="https://wiki.savagelabs.net/factions/information">FactionsX</a>
   </th><td><a href="https://wiki.savagelabs.net/factions/installation">Installation</a></td><td>
@@ -53,3 +50,5 @@ If you can't find what you're looking for, check our <a href="https://discord.gg
   <a href="https://wiki.savagelabs.net/collectors/installation">Installation</a></td><td>
   <a href="https://wiki.savagelabs.net/collectors/permissions">Permissions</a></td><td>
   &nbsp;</td><td><a href="https://wiki.savagelabs.net/collectors/default-files">Default Files</a></td><td>&nbsp;</td></tr></tbody></table></figure>
+  
+If you can't find what you're looking for, check our <a href="https://discord.gg/j8CW7x8">Discord Support Server</a>!
