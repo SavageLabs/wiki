@@ -2,7 +2,7 @@
 title: SavageLabs
 description: 
 published: 1
-date: 2020-04-24T22:40:20.074Z
+date: 2020-04-24T22:40:40.728Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 
 Welcome to the SavageLabs' Wiki Website.
 Here you can find some useful information about our plugins like installation guides, placeholders 
-and permissions lists and the default files of our plugins.
+& permissions lists and the default files of our plugins.
 
 <figure class="table"><table><tbody><tr><th><a href="https://wiki.savagelabs.net/factions/information">FactionsX</a>
   </th><td><a href="https://wiki.savagelabs.net/factions/installation">Installation</a></td><td>
