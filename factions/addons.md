@@ -2,7 +2,7 @@
 title: Addon Guide
 description: How to build an addon
 published: 1
-date: 2020-04-23T15:01:27.136Z
+date: 2020-05-01T15:39:59.632Z
 tags: 
 ---
 
@@ -29,13 +29,13 @@ Add and import the SavageLabs repository to access FactionsX & AddonFramework.
   <dependency>
     <groupId>net.prosavage.factionsx</groupId>
     <artifactId>FactionsX</artifactId>
-    <version>0.2-PATREON</version>
+    <version>0.3-PATREON</version>
 	</dependency>
   
   <dependency>
     <groupId>net.prosavage.factionsx</groupId>
     <artifactId>AddonFramework</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
 	</dependency>
 </dependencies>
 ```
