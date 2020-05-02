@@ -1,10 +1,13 @@
 ---
-title: FactionsX
+title: FactionsX Default Files
 description: 
 published: 1
-date: 2020-05-01T22:30:48.407Z
-tags: 
+date: 2020-05-02T00:06:19.149Z
+tags: factionsx, default files
 ---
 
-# Default Files
-Your content here
+### config.yml
+
+```
+SOON
+```
