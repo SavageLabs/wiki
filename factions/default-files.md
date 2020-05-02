@@ -2,12 +2,15 @@
 title: FactionsX
 description: 
 published: 1
-date: 2020-05-02T00:16:06.383Z
+date: 2020-05-02T00:24:27.466Z
 tags: defa, default files, factionsx
 ---
 
-## config.json
-```
+<h3> Last Updated: v0.2.2 </h3>
+
+<h2> config.json </h2>
+
+```json
 {
   "factionsPermissionPrefix": "factionsx",
   "wildernessDescription": "&7it's dangerous out here!",
@@ -752,7 +755,7 @@ tags: defa, default files, factionsx
 ```
 <h2>message.json</h2>
 
-```
+```json
 {
   "messagePrefix": "&7[&6!&7] ",
   "commandRequirementsNotAPlayer": "&cThis command requires the executor to be a player.",
