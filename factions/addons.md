@@ -2,9 +2,15 @@
 title: Addon Guide
 description: How to build an addon
 published: 1
-date: 2020-05-01T15:51:19.506Z
+date: 2020-05-02T00:55:36.654Z
 tags: 
 ---
+
+<figure class="table"><table><thead><tr><th colspan="3"><p style="text-align:center;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Available Addons &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p></th></tr></thead>
+<tbody><tr><td><p style="text-align:center;"><a href="https://wiki.savagelabs.net/factions/addons/fwild">FWild</a></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/factions/addons/ftop">FTOP</a></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/factions/addons/fgrace">FGrace</a></p></td></tr></tbody></table></figure>
 
 # How to create an addon for FactionsX
 *FactionsX allows 'addons' to be loaded to dynamically add features to the plugin*
