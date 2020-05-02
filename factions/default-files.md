@@ -1,9 +1,9 @@
 ---
-title: FactionsX
+title: FactionsX Default Files
 description: 
 published: 1
-date: 2020-05-02T00:24:27.466Z
-tags: defa, default files, factionsx
+date: 2020-05-02T00:24:54.497Z
+tags: default files, factionsx
 ---
 
 <h3> Last Updated: v0.2.2 </h3>
