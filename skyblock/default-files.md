@@ -1,9 +1,9 @@
 ---
-title: SkyblockX
+title: SkyblockX Default Files
 description: 
 published: 1
-date: 2020-05-02T01:08:59.282Z
-tags: 
+date: 2020-05-02T01:09:24.801Z
+tags: default files, skyblockx
 ---
 
 <h3>Last Updated: v1.4.2-alpha</h3>
