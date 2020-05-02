@@ -2,11 +2,11 @@
 title: FactionsX
 description: 
 published: 1
-date: 2020-05-02T00:15:22.869Z
-tags: default files, factionsx, defa
+date: 2020-05-02T00:16:06.383Z
+tags: defa, default files, factionsx
 ---
 
-### config.json
+## config.json
 ```
 {
   "factionsPermissionPrefix": "factionsx",
@@ -750,7 +750,7 @@ tags: default files, factionsx, defa
   }
 }
 ```
-<h3>message.json</h3>
+<h2>message.json</h2>
 
 ```
 {
