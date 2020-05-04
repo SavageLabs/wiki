@@ -2,12 +2,16 @@
 title: SkyblockX Default Files
 description: 
 published: 1
-date: 2020-05-04T18:58:39.081Z
+date: 2020-05-04T18:59:33.457Z
 tags: default files, skyblockx
 ---
 
 <h3>Last Updated: v1.4.2-alpha</h3>
 <h2>config.json</h2>
+
+> To download the config.json please [click here](https://github.com/SavageLabs/default-files/blob/master/FactionsX/config.json)
+><p style="color:pink;"> Right Click the "Raw" button then click "Save link as..." and make sure it is saved as "config", not "config(1)" otherwise it will not work.</p>
+><p style="color:pink;">If the .json doesnt autmatically show on the end then do not add it otherwise it will be named "config.json.json". </p>
 
 ```json
 {
@@ -562,7 +566,8 @@ tags: default files, skyblockx
   "islandNetherTeleported": "&7You have been teleported to your nether island.",
   "islandCreatedTitle": "&9SkyblockX",
   "islandCreatedSubtitle": "&7By: ProSavage"
-}```
+}
+```
 
 <h2>blockvalues.json</h2>
 
