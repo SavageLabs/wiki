@@ -2,7 +2,7 @@
 title: FactionsX Default Files
 description: 
 published: 1
-date: 2020-05-04T18:52:37.083Z
+date: 2020-05-04T18:53:39.976Z
 tags: default files, factionsx
 ---
 
@@ -11,8 +11,8 @@ tags: default files, factionsx
 <h2> config.json </h2>
 
 > To download the config.json please [click here](https://github.com/SavageLabs/default-files/blob/master/FactionsX/config.json)
-><p style="color:pink;"> Right Click the "Raw" button then click "Save link as..." and make sure it is saved as "config", not "config(1)" otherwise it wont work.</p>
-><p style="color:pink;">if the .json doesnt autmatically show on the end then dont add it otherwise it will be named "config.json.json". </p>
+><p style="color:pink;"> Right Click the "Raw" button then click "Save link as..." and make sure it is saved as "config", not "config(1)" otherwise it will not work.</p>
+><p style="color:pink;">If the .json doesnt autmatically show on the end then do not add it otherwise it will be named "config.json.json". </p>
   
 ```json
 {
@@ -760,8 +760,8 @@ tags: default files, factionsx
 <h2>message.json</h2>
 
 > To download the message.json please [click here](https://github.com/SavageLabs/default-files/blob/master/FactionsX/message.json)
-><p style="color:pink;"> Right Click the "Raw" button then click "Save link as..." and make sure it is saved as "message", not "message(1)" otherwise it wont work.</p>
-><p style="color:pink;">if the .json doesnt autmatically show on the end then dont add it otherwise it will be named "message.json.json". </p>
+><p style="color:pink;"> Right Click the "Raw" button then click "Save link as..." and make sure it is saved as "message", not "message(1)" otherwise it will not work.</p>
+><p style="color:pink;">If the .json doesnt autmatically show on the end then do not add it otherwise it will be named "message.json.json". </p>
 
 ```json
 {
