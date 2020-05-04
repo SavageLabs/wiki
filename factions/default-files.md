@@ -2,7 +2,7 @@
 title: FactionsX Default Files
 description: 
 published: 1
-date: 2020-05-04T18:48:02.216Z
+date: 2020-05-04T18:48:11.525Z
 tags: default files, factionsx
 ---
 
@@ -11,7 +11,7 @@ tags: default files, factionsx
 <h2> config.json </h2>
 
 > To download the config.json please [click here](https://github.com/SavageLabs/default-files/blob/master/FactionsX/config.json)
-> <p style="color:pink;"> Right Click the "Raw" button then click "Save link as..." and make sure it is saved as "config", not "config(1)" otherwise it wont work.\n
+> <p style="color:pink;"> Right Click the "Raw" button then click "Save link as..." and make sure it is saved as "config", not "config(1)" otherwise it wont work. \n
 >if the .json doesnt autmatically show on the end then dont add it otherwise it will be named "config.json.json". </p>
   
 ```json
