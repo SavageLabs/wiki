@@ -2,7 +2,7 @@
 title: FactionsX Default Files
 description: 
 published: 1
-date: 2020-05-04T17:58:25.563Z
+date: 2020-05-04T18:01:51.205Z
 tags: default files, factionsx
 ---
 
@@ -10,7 +10,7 @@ tags: default files, factionsx
 
 <h2> config.json </h2>
 
-<!DOCTYPE html>
+^<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,7 +34,7 @@ tags: default files, factionsx
 <body>
 <button class="btn"><i class="fa fa-download"></i> Download</button>
 </body>
-</html>
+</html>^
   
 ```json
 {
