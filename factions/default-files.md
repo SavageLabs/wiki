@@ -2,7 +2,7 @@
 title: FactionsX Default Files
 description: 
 published: 1
-date: 2020-05-04T18:49:01.525Z
+date: 2020-05-04T18:50:02.180Z
 tags: default files, factionsx
 ---
 
@@ -760,8 +760,8 @@ tags: default files, factionsx
 <h2>message.json</h2>
 
 > To download the message.json please [click here](https://github.com/SavageLabs/default-files/blob/master/FactionsX/message.json)
-> Right Click the "Raw" button then click "Save link as..." and make sure it is saved as "message", not "message(1)" otherwise it wont work.
->if the .json doesnt autmatically show on the end then dont add it otherwise it will be named "message.json.json".
+><p style="color:pink;">Right Click the "Raw" button then click "Save link as..." and make sure it is saved as "message", not "message(1)" otherwise it wont work.<p>
+><p style="color:pink;">if the .json doesnt autmatically show on the end then dont add it otherwise it will be named "message.json.json".<p>
 
 ```json
 {
