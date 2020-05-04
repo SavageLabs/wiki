@@ -2,7 +2,7 @@
 title: SkyblockX Default Files
 description: 
 published: 1
-date: 2020-05-04T18:59:33.457Z
+date: 2020-05-04T19:06:25.326Z
 tags: default files, skyblockx
 ---
 
@@ -392,6 +392,10 @@ tags: default files, skyblockx
 ```
 <h2>message.json</h2>
 
+> To download the message.json please [click here](https://github.com/SavageLabs/default-files/blob/master/FactionsX/config.json)
+><p style="color:pink;"> Right Click the "Raw" button then click "Save link as..." and make sure it is saved as "message", not "message(1)" otherwise it will not work.</p>
+><p style="color:pink;">If the .json doesnt autmatically show on the end then do not add it otherwise it will be named "message.json.json". </p>
+
 ```json{
   "messagePrefix": "&7[&b!&7] ",
   "islandCreationMessage": "&7Island created with size %1$s.",
@@ -570,6 +574,10 @@ tags: default files, skyblockx
 ```
 
 <h2>blockvalues.json</h2>
+
+> To download the blockvalues.json please [click here](https://github.com/SavageLabs/default-files/blob/master/FactionsX/config.json)
+><p style="color:pink;"> Right Click the "Raw" button then click "Save link as..." and make sure it is saved as "blockvalues", not "blockvalues(1)" otherwise it will not work.</p>
+><p style="color:pink;">If the .json doesnt autmatically show on the end then do not add it otherwise it will be named "blockvalues.json.json". </p>
 
 ```json
 {
@@ -1659,6 +1667,10 @@ tags: default files, skyblockx
 }
 ```
 <h2>quests.json</h2>
+
+> To download the quests.json please [click here](https://github.com/SavageLabs/default-files/blob/master/FactionsX/config.json)
+><p style="color:pink;"> Right Click the "Raw" button then click "Save link as..." and make sure it is saved as "quests", not "quests(1)" otherwise it will not work.</p>
+><p style="color:pink;">If the .json doesnt autmatically show on the end then do not add it otherwise it will be named "quests.json.json". </p>
 
 ```json
 {
