@@ -2,7 +2,7 @@
 title: FactionsX Default Files
 description: 
 published: 1
-date: 2020-05-04T17:37:18.896Z
+date: 2020-05-04T17:48:54.264Z
 tags: default files, factionsx
 ---
 
@@ -10,7 +10,32 @@ tags: default files, factionsx
 
 <h2> config.json </h2>
 
-Click here to download: [config.json](/config.json)
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
+<body>
+<button class="btn"><i class="fa fa-download"></i> Download</button>
+</body>
+</html>
+  
 ```json
 {
   "factionsPermissionPrefix": "factionsx",
@@ -756,7 +781,39 @@ Click here to download: [config.json](/config.json)
 ```
 <h2>message.json</h2>
 
-Click here to download: [message.json](/message.json)
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
+<body>
+  <button onclick="myFunction()"><button class="btn"><i class="fa fa-download"></i> Download</button></button>
+  
+  <script>
+function myFunction() {
+  download.file("https://www.w3schools.com")
+}
+</script>
+  
+</body>
+</html>
+
 ```json
 {
   "messagePrefix": "&7[&6!&7] ",
