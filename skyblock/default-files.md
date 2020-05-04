@@ -2,7 +2,7 @@
 title: SkyblockX Default Files
 description: 
 published: 1
-date: 2020-05-02T01:09:24.801Z
+date: 2020-05-04T18:58:39.081Z
 tags: default files, skyblockx
 ---
 
@@ -562,7 +562,7 @@ tags: default files, skyblockx
   "islandNetherTeleported": "&7You have been teleported to your nether island.",
   "islandCreatedTitle": "&9SkyblockX",
   "islandCreatedSubtitle": "&7By: ProSavage"
-}
+}```
 
 <h2>blockvalues.json</h2>
 
