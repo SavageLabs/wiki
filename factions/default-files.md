@@ -2,14 +2,15 @@
 title: FactionsX Default Files
 description: 
 published: 1
-date: 2020-05-02T00:24:54.497Z
+date: 2020-05-04T17:37:18.896Z
 tags: default files, factionsx
 ---
 
-<h3> Last Updated: v0.2.2 </h3>
+<h3> Last Updated: v0.3-PATREON </h3>
 
 <h2> config.json </h2>
 
+Click here to download: [config.json](/config.json)
 ```json
 {
   "factionsPermissionPrefix": "factionsx",
@@ -755,6 +756,7 @@ tags: default files, factionsx
 ```
 <h2>message.json</h2>
 
+Click here to download: [message.json](/message.json)
 ```json
 {
   "messagePrefix": "&7[&6!&7] ",
