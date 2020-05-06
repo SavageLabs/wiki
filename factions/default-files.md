@@ -1,12 +1,14 @@
 ---
 title: FactionsX Default Files
 description: 
-published: 1
-date: 2020-05-04T18:53:39.976Z
+published: true
+date: 2020-05-06T23:43:03.347Z
 tags: default files, factionsx
 ---
 
 <h3> Last Updated: v0.3-PATREON </h3>
+
+
 
 <h2> config.json </h2>
 
