@@ -1,8 +1,8 @@
 ---
 title: SavageLabs
 description: 
-published: 1
-date: 2020-04-24T22:42:17.089Z
+published: true
+date: 2020-05-07T00:30:58.492Z
 tags: 
 ---
 
