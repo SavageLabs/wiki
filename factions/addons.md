@@ -2,9 +2,18 @@
 title: FactionsX Addon Guide
 description: How to build an addon
 published: true
-date: 2020-05-08T08:18:21.129Z
+date: 2020-05-08T08:35:42.473Z
 tags: 
 ---
+
+<figure class="table"><table><thead><tr><th colspan="7"></th></tr></thead>
+<tbody><tr><td><p style="text-align:center;"><b>FactionsX</b></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/factions/information">Information</a></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/factions/installation">Installation</a></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/factions/permissions">Permissions</a></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/factions/placeholders">Placeholders</a></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/factions/default-files">Deafult Files</a></p></td><td>
+<p style="text-align:center;">Addons</p></td></tbody></table></figure>
 
 <figure class="table"><table><thead><tr><th colspan="4"><p style="text-align:center;">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Available Addons &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p></th></tr></thead>
