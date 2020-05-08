@@ -2,9 +2,19 @@
 title: FactionsX Default Files
 description: 
 published: true
-date: 2020-05-06T23:43:03.347Z
+date: 2020-05-08T08:37:15.648Z
 tags: default files, factionsx
 ---
+
+<figure class="table"><table><thead><tr><th colspan="7"></th></tr></thead>
+<tbody><tr><td><p style="text-align:center;"><b>FactionsX</b></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/factions/information">Information</a></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/factions/installation">Installation</a></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/factions/permissions">Permissions</a></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/factions/placeholders">Placeholders</a></p></td><td>
+<p style="text-align:center;">Deafult Files</p></td><td>
+  <p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/factions/addons">Addons</a></p></td></tbody></table></figure>
+
 
 <h3> Last Updated: v0.3-PATREON </h3>
 
