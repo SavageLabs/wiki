@@ -2,11 +2,19 @@
 title: SkyblockX Default Files
 description: 
 published: true
-date: 2020-05-07T00:56:52.653Z
+date: 2020-05-08T08:40:08.863Z
 tags: default files, skyblockx
 ---
 
-<h3>Last Updated: v1.4.2-alpha</h3>
+<figure class="table"><table><thead><tr><th colspan="6"></th></tr></thead>
+<tbody><tr><td><p style="text-align:center;"><b>SkyblockX</b></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/skyblock/information">Information</a></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/skyblock/installation">Installation</a></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/skyblock/permissions">Permissions</a></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/skyblock/placeholders">Placeholders</a></p></td><td>
+<p style="text-align:center;">Deafult Files</p></td></tbody></table></figure><h3>
+
+Last Updated: v1.4.2-alpha</h3>
 <h2>config.json</h2>
 
 > To download the config.json please [click here](https://github.com/SavageLabs/default-files/blob/master/SkyblockX/config.json)
