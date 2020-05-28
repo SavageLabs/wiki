@@ -2,7 +2,7 @@
 title: FactionsX Default Files
 description: 
 published: true
-date: 2020-05-28T20:39:35.935Z
+date: 2020-05-28T20:44:02.131Z
 tags: default files, factionsx
 ---
 
@@ -19,5 +19,5 @@ Last Updated: v0.4.2-PATREON </h3>
 
 
 > To download/copy one of the default FactionsX please [click here](https://github.com/SavageLabs/default-files/blob/master/FactionsX)
-><p style="color:pink;"> Right Click the "Raw" button then click "Save link as..." and make sure it is saved as (for example) "config", not "config(1)" otherwise it will not work.</p>
+><p style="color:pink;"> After clicking on the file you want, Right Click the "Raw" button at the top right of the json file and click "Save link as..." and make sure it is saved as (for example) "config", not "config(1)" otherwise it will not work.</p>
 ><p style="color:pink;">If the .json doesnt autmatically show on the end then do not add it otherwise it will be named (for example) "config.json.json". </p>
