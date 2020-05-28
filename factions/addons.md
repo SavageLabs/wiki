@@ -2,7 +2,7 @@
 title: FactionsX Addon Guide
 description: How to build an addon
 published: true
-date: 2020-05-08T08:36:22.134Z
+date: 2020-05-28T20:50:30.559Z
 tags: 
 ---
 
@@ -15,12 +15,13 @@ tags:
 <p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/factions/default-files">Deafult Files</a></p></td><td>
 <p style="text-align:center;">Addons</p></td></tbody></table></figure>
 
-<figure class="table"><table><thead><tr><th colspan="4"><p style="text-align:center;">
+<figure class="table"><table><thead><tr><th colspan="6"><p style="text-align:center;">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Available Addons &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p></th></tr></thead>
 <tbody><tr><td><p style="text-align:center;"><a href="https://wiki.savagelabs.net/factions/addons/fwild">FWild</a></p></td><td>
 <p style="text-align:center;"><a href="https://wiki.savagelabs.net/factions/addons/ftop">FTOP</a></p></td><td>
 <p style="text-align:center;"><a href="https://wiki.savagelabs.net/factions/addons/fgrace">FGrace</a></p></td><td>
-<p style="text-align:center;"><a href="https://wiki.savagelabs.net/factions/addons/ftnt">FTNT</a></p></td></tr></tbody></table></figure>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/factions/addons/ftnt">FTNT</a></p></td><td>
+<p style="text-align:center;"><a href="https://wiki.savagelabs.net/factions/addons/fprinter">FPrinter</a></p></td></tr></tbody></table></figure>
 
 # How to create an addon for FactionsX
 *FactionsX allows 'addons' to be loaded to dynamically add features to the plugin*
