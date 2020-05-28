@@ -2,7 +2,7 @@
 title: FactionsX Addon Guide
 description: How to build an addon
 published: true
-date: 2020-05-28T20:50:30.559Z
+date: 2020-05-28T20:52:37.245Z
 tags: 
 ---
 
