@@ -2,7 +2,7 @@
 title: FactionsX Default Files
 description: 
 published: true
-date: 2020-05-28T20:39:17.708Z
+date: 2020-05-28T20:39:35.935Z
 tags: default files, factionsx
 ---
 
@@ -15,7 +15,7 @@ tags: default files, factionsx
 <p style="text-align:center;">Deafult Files</p></td><td>
   <p style="text-align:center;"><a href="https://wiki.savagelabs.net/en/factions/addons">Addons</a></p></td></tbody></table></figure><h3>
 
-Last Updated: v0.3-PATREON </h3>
+Last Updated: v0.4.2-PATREON </h3>
 
 
 > To download/copy one of the default FactionsX please [click here](https://github.com/SavageLabs/default-files/blob/master/FactionsX)
